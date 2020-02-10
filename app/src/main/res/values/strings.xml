@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="hard_coded_string_name">coolHardCodedStringValue</string>
+    <string name="click_button">Submit</string>
+    <string name="click_button_factorizer">Factorize my favorite number!</string>
+    <string name="displayText">TJ Rocks</string>
+    <string name="good_name_resp">That is a good name..</string>
+    <string name="color_hint">What is your favorite color?</string>
+    <string name="number">0</string>
+    <string name="prime_intro">Prime factors:</string>
+</resources>
